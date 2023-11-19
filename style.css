@@ -5,3 +5,15 @@
 .divs-facilidades{
     width: 325px;
 }
+
+
+.divs-facilidades .bi, div.ms-3.mb-1 {
+    color: #DAFF01;
+}
+
+a.btn.btn-primary{
+    background-color: #9353FF;
+    border: none;
+    border-radius: 0;
+    color: white;
+}
