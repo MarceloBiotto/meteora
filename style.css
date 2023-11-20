@@ -11,7 +11,7 @@
     color: #DAFF01;
 }
 
-a.btn.btn-primary{
+a.btn.btn-primary, button#button-addon2{
     background-color: #9353FF;
     border: none;
     border-radius: 0;
