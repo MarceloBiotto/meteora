@@ -17,3 +17,13 @@ a.btn.btn-primary, button#button-addon2{
     border-radius: 0;
     color: white;
 }
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
